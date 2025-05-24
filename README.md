@@ -48,8 +48,8 @@ Blog web interactivo para fans de Star Wars. Uso de API REST, almacenamiento de 
 
 ### 🤝 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levi-eduardo-villareal-argueta-4084571b6)  
-[![Correo](https://img.shields.io/badge/-levi.villarreal.dev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:levi.villarreal.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levi-villarreal)  
+[![Correo](https://img.shields.io/badge/-levi.villarreal.dev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:levi.eduardo2024@gmail.com)
 
 ---
 
